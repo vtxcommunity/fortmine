@@ -1,0 +1,2 @@
+# fortmine
+vps untuk mining
